@@ -7,13 +7,13 @@
 #oral{
 	display:flex;
 	flex-direction:row;
-	border:solid black 1.5px;
-	width:734px;
+	width:800px;
 }
 
 #colonne{
-	padding-right:20px;
-	padding-left:20px;
+	padding-right: 10px;
+ 	padding-left: 20px;
+	width:300px;
 	border-right:solid black 1.5px;
 	border-left:solid black 1.5px;
 }
@@ -21,8 +21,5 @@
 #ecrit{
 	display:flex;
 	flex-direction:25px;
-	border:solid black 1.5px;
-	width:766px;
+	width:800px;
 }
-
-
